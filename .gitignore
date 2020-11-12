@@ -2,6 +2,7 @@
 node_modules
 /dist
 
+ListTugas.vue
 
 # local env files
 .env.local
